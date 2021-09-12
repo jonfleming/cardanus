@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cardanus Ada Stake Pool
+title: Cardanus.net
 email: techion@email.com
 description: >- # this means to ignore newlines until "baseurl:"  
   Ada held on the Cardano network represents a stake in the network, 
