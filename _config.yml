@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Cardanus.net
-email: techion@email.com
+email: me@jonfleming.com
 description: >- # this means to ignore newlines until "baseurl:"  
   Ada held on the Cardano network represents a stake in the network, 
   with the size of the stake proportional to the amount of ada held. 
@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Techion
+twitter_username: jon_e_fleming
 github_username:  jonfleming
 
 # Build settings
